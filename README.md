@@ -25,7 +25,7 @@
 </div>
 <div align="left">
 
-## 📚 교육
+##  🎓  교육
 - **2023.03~2023.12** (9개월) / Apple Developer Academy @POSTECH / iOS 앱 개발  
 - **2024.08** (1개월) / 코드스테이츠 / 개발자 PM 교육  
 - **2024.09~2025.02** (6개월) / 서울경제진흥원(SeSAC) / Flutter 웹&앱 풀스택 개발  
@@ -42,15 +42,15 @@
 ## 📜 자격증
 - **2024.12.13** / SQL 개발자 (한국데이터산업진흥원)  
 
-## 🌱 활동
+## 🚀 활동
 - **2024.05** / DND 해커톤 참여  
 - **2023.05** / 서울경제진흥원 **새싹톤** 본선 진출  
 
-## 🌱 백준
+## 🧮 백준
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmk1137)](https://solved.ac/hmk1137)
 
 
-## 기술 스택
+## 🛠️	 기술 스택
 
 <a href="https://bulmang-ios.tistory.com/category/Swift">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
