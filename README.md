@@ -17,7 +17,7 @@
 |---------|-----------|-------------|----------|
 | **iWaver**<br>PDF를 Numbers로 손쉽게 바꾸는 앱 | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?logo=swift&logoColor=white) | ![Apple Silicon](https://img.shields.io/badge/MacOS%20Silicon-999999?logo=apple)| <a href="https://iwaver.info/"><img src="https://github.com/user-attachments/assets/868e4220-b1f6-49d6-959b-cd55e589b79f"  width="64" height="64"></a> |
 | **피플**<br> 헌혈 커뮤니티 플랫폼 앱 | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![Android 34+](https://img.shields.io/badge/Android%2B-green?logo=android) ![iOS 13+](https://img.shields.io/badge/iOS%2B-lightgrey?logo=apple) | <a href="https://pple.link/"><img src="https://github.com/user-attachments/assets/5aa26ef5-2f61-4568-bf0d-6f73baa57e59"  width="64" height="64"></a> |
-| **Mondee**<br>청소를 재미있게 만들어 주는 앱 | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?logo=swift&logoColor=white) | ![iOS ](https://img.shields.io/badge/iOS-lightgrey?logo=apple) ![iPadOS](https://img.shields.io/badge/iPadOS-blue?logo=ipad)| <a href="https://github.com/bulmang/MC3-Team5-Mondee"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120548537/258163699-88d62ea2-49e4-40f8-974c-544ff171e435.png"  width="64" height="64"></a> |
+| **Mondee**<br>청소를 재미있게 만들어 주는 앱 | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?logo=swift&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-lightgrey?logo=apple) ![iPadOS](https://img.shields.io/badge/iPadOS-blue?logo=ipad) ![watchOS](https://img.shields.io/badge/watchOS-000000?logo=apple&logoColor=white) | <a href="https://github.com/bulmang/MC3-Team5-Mondee"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120548537/258163699-88d62ea2-49e4-40f8-974c-544ff171e435.png" width="64" height="64"></a> |
 | **Toucher**<br>아이폰 초보자용 가이드 앱 | ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?logo=swift&logoColor=white) | ![iOS ](https://img.shields.io/badge/iOS-lightgrey?logo=apple) ![iPadOS](https://img.shields.io/badge/iPadOS-blue?logo=ipad)| <a href="https://github.com/bulmang/Toucher"><img src="https://github.com/user-attachments/assets/4ddc386f-a26f-430d-9740-e01e859d906a"  width="64" height="64"></a> |
 
 
@@ -44,13 +44,13 @@
 
 ## 🚀 활동
 - **2024.05** / DND 해커톤 참여  
-- **2023.05** / 서울경제진흥원 **새싹톤** 본선 진출  
+- **2023.05** / 서울경제진흥원 새싹톤 본선 진출  
 
 ## 🧮 백준
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmk1137)](https://solved.ac/hmk1137)
 
 
-## 🛠️	 기술 스택
+## 🛠️	 기술 스택 & 기록
 
 <a href="https://bulmang-ios.tistory.com/category/Swift">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
