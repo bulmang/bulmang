@@ -24,32 +24,36 @@
 </div>
 <div align="left">
 
-##  🎓  교육
-- **2023.03~2023.12** (9개월) / Apple Developer Academy @POSTECH / iOS 앱 개발  
+## 경험
+- **2025.06~2025.11** (6개월) / 청년취업사관학교(SESAC) / Flutter 개발 강사 /
+
+## 교육
 - **2024.08** (1개월) / 코드스테이츠 / 개발자 PM 교육  
 - **2024.09~2025.02** (6개월) / 서울경제진흥원(SeSAC) / Flutter 웹&앱 풀스택 개발  
+- **2023.03~2023.12** (9개월) / Apple Developer Academy @POSTECH / iOS 앱 개발  
 - **2017.03~2025.02** / 평택대학교 / 융합소프트웨어학과 졸업  
 
-## 🏆 수상
+## 수상
 - **2024.08** / 국토교통부 주관 **국토·교통 데이터활용 서비스 개발**  
   ▸ 주택도시보증공사 사장상 수상  
   ▸ 킥보드 안전 관리 플랫폼 어플 개발(Swift), 기획 및 발표 담당  
-- **2024.06** / 평택대학교 **총장상**  
+- **2024.06** / 평택대학교 **최우수상**  
   ▸ 장학금 및 학식 안내 어플 개발(Swift)  
   ▸ UI/UX 디자인 및 프로젝트 기획·발표  
 
-## 📜 자격증
+## 자격증
+- **2025.09.12** / 정보처리기사 (한국산업인력공단)
 - **2024.12.13** / SQL 개발자 (한국데이터산업진흥원)  
 
-## 🚀 활동
+## 활동
 - **2024.05** / DND 해커톤 참여  
 - **2023.05** / 서울경제진흥원 새싹톤 본선 진출  
 
-## 🧮 백준
+## 백준
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hmk1137)](https://solved.ac/hmk1137)
 
 
-## 🛠️	 기술 스택 & 기록
+## 기술 스택 & 기록
 
 <a href="https://bulmang-ios.tistory.com/category/Swift">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> 
@@ -58,10 +62,6 @@
 <!-- 블로그 기술 카테고리 연결 -->
 <a href="https://bulmang-ios.tistory.com/category/Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</a>
-
-<a href="https://bulmang-ios.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 
   <a href="https://bulmang-ios.tistory.com/">
